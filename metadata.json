@@ -1,0 +1,8 @@
+{
+  "name": "Éditeur de Cartes - Jeu de l'Oie",
+  "description": "Application pour éditer et imprimer des cartes stratégiques pour le jeu de l'oie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
